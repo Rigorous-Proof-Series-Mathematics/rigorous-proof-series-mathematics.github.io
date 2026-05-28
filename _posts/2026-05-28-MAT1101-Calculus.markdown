@@ -1,0 +1,18 @@
+---
+title: "MAT1101 Calculus"
+link: "/MAT1101-Calculus"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: "Calculus"
+
+area: "Mathematics"
+field: "Calculus"
+
+layout: default
+modal-id: 1
+date: 2026-05-28
+img: "calculus.png"
+alt: image-alt
+description: ""
+---

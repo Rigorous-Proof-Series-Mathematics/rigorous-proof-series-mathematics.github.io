@@ -1,0 +1,18 @@
+---
+title: "MAT1402 Geometry"
+link: "/MAT1402-Geometry"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: "Geometry"
+
+area: "Mathematics"
+field: "Geometry"
+
+layout: default
+modal-id: 3
+date: 2026-05-28
+img: "geometry.png"
+alt: image-alt
+description: ""
+---

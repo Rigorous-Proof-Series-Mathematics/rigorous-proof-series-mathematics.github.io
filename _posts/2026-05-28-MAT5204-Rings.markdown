@@ -1,0 +1,18 @@
+---
+title: "MAT5204 Rings"
+link: "/MAT5204-Rings"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: "Abstract Algebra"
+
+area: "Mathematics"
+field: "Abstract Algebra"
+
+layout: default
+modal-id: 16
+date: 2026-05-28
+img: "rings.png"
+alt: image-alt
+description: ""
+---

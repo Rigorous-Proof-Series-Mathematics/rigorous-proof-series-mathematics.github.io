@@ -1,0 +1,18 @@
+---
+title: "MAT5406 Topology"
+link: "/MAT5406-Topology"
+category: "graduate"
+
+academic_area: "Mathematics"
+academic_field: "Topology"
+
+area: "Mathematics"
+field: "Topology"
+
+layout: default
+modal-id: 19
+date: 2026-05-28
+img: "topology.png"
+alt: image-alt
+description: ""
+---

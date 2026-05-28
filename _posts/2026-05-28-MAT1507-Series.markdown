@@ -1,0 +1,18 @@
+---
+title: "MAT1507 Series"
+link: "/MAT1507-Series"
+category: "undergraduate"
+
+academic_area: "Mathematics"
+academic_field: "Analysis"
+
+area: "Mathematics"
+field: "Analysis"
+
+layout: default
+modal-id: 4
+date: 2026-05-28
+img: "series.png"
+alt: image-alt
+description: ""
+---
